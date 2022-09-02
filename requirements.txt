@@ -1,0 +1,9 @@
+torch
+torchvision
+pandas
+matplotlib
+numpy
+tqdm
+transformers
+datasets
+pynvml
