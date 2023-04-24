@@ -1,0 +1,12 @@
+# Configuration files
+
+./__pycache__
+.idea
+./.DS_Store
+
+# Results
+Results/
+./connectivity_mat_clients.npy
+./prob_ngbrs.npy
+./prob_success_PS.npy
+
